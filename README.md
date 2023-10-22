@@ -3,3 +3,4 @@ Repository to test go-git project
 
 
 Added line
+Added line
